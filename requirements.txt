@@ -1,9 +1,12 @@
+langchain-community==0.0.4
+langchain-text-splitters==0.3.10  # compatible with 0.0.4
 streamlit==1.54.0
-langchain==0.3.11
 sentence-transformers
 transformers
 torch
 faiss-cpu
+
+
 
 
 
